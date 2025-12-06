@@ -1,0 +1,45 @@
+{
+  "total_invoices": 5,
+  "valid_invoices": 0,
+  "invalid_invoices": 5,
+  "error_counts": {
+    "seller_name": 5
+  },
+  "results": [
+    {
+      "invoice_id": "sample_pdf_1.pdf",
+      "is_valid": false,
+      "errors": [
+        "RUL_001_CRITICAL_FIELDS: missing_field:seller_name"
+      ]
+    },
+    {
+      "invoice_id": "sample_pdf_2.pdf",
+      "is_valid": false,
+      "errors": [
+        "RUL_001_CRITICAL_FIELDS: missing_field:seller_name"
+      ]
+    },
+    {
+      "invoice_id": "sample_pdf_3.pdf",
+      "is_valid": false,
+      "errors": [
+        "RUL_001_CRITICAL_FIELDS: missing_field:seller_name"
+      ]
+    },
+    {
+      "invoice_id": "sample_pdf_4.pdf",
+      "is_valid": false,
+      "errors": [
+        "RUL_001_CRITICAL_FIELDS: missing_field:seller_name"
+      ]
+    },
+    {
+      "invoice_id": "sample_pdf_5.pdf",
+      "is_valid": false,
+      "errors": [
+        "RUL_001_CRITICAL_FIELDS: missing_field:seller_name"
+      ]
+    }
+  ]
+}
