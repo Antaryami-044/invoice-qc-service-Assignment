@@ -163,4 +163,3 @@ invoice-qc-service-Antaryami-Sahu/ ├── invoice_qc/ │ ├── init.py �
 ## 9. Video Explanation
 
 **Video Link:**
-[YOUR\_VIDEO\_LINK]
